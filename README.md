@@ -66,7 +66,7 @@ A full-stack food ordering platform built using the MERN Stack.
 
 React.js • Node.js • Express.js • MongoDB • JWT
 
-🔗 **Repository:** https://github.com/yourusername/food-delivery
+🔗 **Repository:** https://github.com/somya-21/Deshi-Dash
 
 ---
 
@@ -87,7 +87,7 @@ A MERN-based task management application to organize and track daily tasks.
 
 React.js • Node.js • Express.js • MongoDB
 
-🔗 **Repository:** https://github.com/yourusername/task-manager
+
 
 ---
 
@@ -108,16 +108,6 @@ React.js • Node.js • Express.js • MongoDB
 - 🎖 Academic Excellence Award (2 Consecutive Years)
 - 📜 Coursera – Introduction to Web Development
 - 🎓 B.Tech CSE (CGPA 8.6)
-
----
-
-# 📈 GitHub Stats
-
-![Somya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
 
 ---
 
