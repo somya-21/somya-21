@@ -1,87 +1,140 @@
-# Hi there 👋 I'm Your Name
+# Hi 👋, I'm Somya Tandon
 
-🚀 Passionate Software Developer | Open Source Enthusiast | Problem Solver
+### Frontend Developer | MERN Stack Developer | React.js Enthusiast
 
-## 👨‍💻 About Me
+<p align="left">
+I'm a Frontend Developer passionate about building responsive, user-friendly, and scalable web applications using modern JavaScript technologies. I enjoy solving real-world problems through clean code and continuously learning new technologies.
+</p>
 
-- 🎓 Computer Science Student
-- 💻 Interested in Full Stack Development, AI & Cloud
-- 🌱 Currently learning: Next.js, Docker, Kubernetes
-- 🔥 Solved 500+ DSA problems
-- 🎯 Goal: Build impactful software and contribute to Open Source
+---
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech in Computer Science Engineering (CGPA: **8.6**)
+- 💼 Programmer at **Teerthanker Mahaveer University (TMU)**
+- 🌱 Currently improving my skills in **React.js, Node.js, Express.js, MongoDB, and System Design**
+- 💻 Passionate about Frontend Development & Full Stack Web Development
+- 🚀 Love building responsive and performance-focused web applications
+- 🤝 Open to Internship and Full-Time Software Developer opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,cpp,html,css,mysql,mongodb" />
+</p>
 
 ### Frontend
-HTML • CSS • React • Tailwind CSS • Bootstrap
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+</p>
 
 ### Backend
-Node.js • Express.js • Spring Boot
 
-### Database
-MySQL • MongoDB • PostgreSQL
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### Tools
-Git • GitHub • Docker • VS Code • Postman
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🔹 Project One
-Short description.
+## 🍔 Food Delivery Website
 
-**Tech:** React, Node.js, MongoDB
+A full-stack food ordering platform built using the MERN Stack.
 
-⭐ [Repository](https://github.com/username/project)
+### Features
 
----
+- Secure User Authentication (JWT)
+- Shopping Cart
+- Online Food Ordering
+- REST API Integration
+- Search Functionality
+- Responsive Design
 
-### 🔹 Project Two
+**Tech Stack**
 
-Short description.
+React.js • Node.js • Express.js • MongoDB • JWT
 
-**Tech:** Spring Boot, MySQL
-
-⭐ [Repository](https://github.com/username/project2)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+🔗 **Repository:** https://github.com/yourusername/food-delivery
 
 ---
 
-## 🏆 Achievements
+## ✅ Task Management Application
 
-- 🥇 500+ DSA Problems Solved
-- 🏅 Hackathon Participant
-- ⭐ Open Source Contributor
-- 📚 Continuous Learner
+A MERN-based task management application to organize and track daily tasks.
+
+### Features
+
+- Authentication & Authorization
+- CRUD Operations
+- Protected Routes
+- Task Filtering
+- Responsive UI
+- REST APIs
+
+**Tech Stack**
+
+React.js • Node.js • Express.js • MongoDB
+
+🔗 **Repository:** https://github.com/yourusername/task-manager
 
 ---
 
-## 📫 Connect With Me
+# 💼 Experience
 
-LinkedIn: https://linkedin.com/in/yourprofile
+## Programmer
+**Teerthanker Mahaveer University**
 
-Portfolio: https://yourportfolio.com
-
-Email: your@email.com
+- 👩‍🏫 Mentored **50+ students** in C++, JavaScript, SQL, and Web Development.
+- 🐞 Assisted in debugging and project implementation.
+- 💻 Supported development and testing of **20+ academic web applications**.
+- 🤝 Collaborated with faculty and students to deliver quality software solutions.
 
 ---
 
-> "Code. Learn. Build. Repeat."
+# 🏆 Achievements
+
+- 🎖 Academic Excellence Award (2 Consecutive Years)
+- 📜 Coursera – Introduction to Web Development
+- 🎓 B.Tech CSE (CGPA 8.6)
+
+---
+
+# 📈 GitHub Stats
+
+![Somya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+
+---
+
+# 📫 Connect with Me
+
+📧 **Email:** tandonsomya2003@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/YOUR-LINKEDIN
+
+🌐 **Portfolio:** https://YOUR-PORTFOLIO
+
+🐙 **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
+
+---
+
+### 💡 Motto
+
+> *"Building clean, scalable, and impactful software—one project at a time."*
+
+⭐ Thanks for visiting my profile!
